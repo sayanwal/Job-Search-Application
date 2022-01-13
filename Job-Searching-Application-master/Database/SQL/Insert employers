@@ -1,0 +1,42 @@
+use jobsearch;
+
+insert into employers (eName, address ,contact ,aboutus ,website, username,password)
+
+values('Steve Mason', '123 Lakeshore RD, Toronto, ON', '647-312-6758',	'Specializes in delivering your assets,on time and on budget',	'WWW.TechCorp.ca', 'SteveyM','32421'),
+('Karen Stoner','321 Static Lane,Brampton,ON','	647-156-9081','	MDG Computers Canada INC is a leader in consumer lending and financing of computer technology','WWW.MDG.com','StonedK','45311'),
+('Allen Stream','22 Fissure Drive, Mississauga, ON','647-432-4531','	IT Express Co aims to provide customers with integrated and comprehensive logistics solutions','WWW.ITExpress.com','	AStream	','94321'),
+('Daniel Crow','56 Winter St, Oakville,ON','	647-109-6532','	CGITech provides technical expertise in the design, development, testing, documentation, implementation and user support of complex system','	WWW.CGITECH.ca','DanCrow','32056'),
+('Nolan Sherpard','	21 Kings St, Toronto,ON','	647-123-1345','	Challenging and fast moving, yet friendly and supportive: a career you will lokk forward to every day','	WWW.ProgrammerTech.com','NolanS','	67091'),
+('Jeremy Stalen','22 Queens St, Brampton,ON','	647-453-6865','	We are a small software development company that creates and supports software programming language','	WWW.JavaDev.ca','	StalenJ','	30821'),
+('Natalie Conway','	23 Cleveland St, Mississuaga,ON','	647-179-7021','	An innovative systems design amd integration company','	WWW.Analyst.com','ConwayN','10325'),
+('kevin Wright','24 Cresent St, Oakvile,ON','	647-509-3450','	Suppies application design ,development, and technical integration,consultation, and software support services','WWW.IT.ca','WrightK','	46120'),
+('Todd Howard','25 Bates St, Brampton,ON','	647-102-3401','	Our company creates furniture that connects people, technology and spaces','	WWW.AppDev.ca','HowardT','34027'),
+('Roland Collins','	26 Timber St, Toronto,ON','	647-809-1023','	A privetly held company with a youthful entrepreneurial spirit','WWW.ServerCorp.ca','CollinsR','90732'),
+('Lewis Fisher','27 Crane St, Mississauga,ON','	647-407-2109','	Our goal is to deliver the most complete, the most user friendly, and the quickest and easiest-to-implementsoftware','	WWW.NetworkPC.ca','	LewisF','80135'),
+('Timothy Reiner','	28 Lavender St, Oakville,ON','	647-340-2198','	 The leading cloud-basd software provider for the senior care market','	WWW.DriverTech.ca','ReinerT','31030'),
+('Jesse Nomad',	'29 Cross St, Brampton,ON','647-798-1239','We are dedicated to solving complex business problems for pur global clients with creative and forward-thinking solutions','WWW.ENet.ca','NomadJ','60461'),
+('Sarah West','30 Cruise St, Toronto,ON','	647-912-7028',	'We hire exceptionally smart, analytical, and hard working people who are lifelong learners', 'WWW.De-Bug.ca','WestS','10987'),
+('Carrie Bishop','31 Calvary St, Mississauga,ON','647-415-9285','We ara a specialty software services company with clients throughout North America','WWW.WebIT.ca','BishopCar','65932'),
+('Leland Feathers','32 Fiddle St, Brampton,ON','647-104-5621','We are passionate about the technology we build – and the positive impact it makes on the everyday lives of our end users','WWW.APPCreate.ca','FeathersLe','30795'),
+('Rose Quartz','33 Cliff St, Toronto,ON','647-301-3964','We deliver mission-critical processing for information management, analysis, trading, accounting, reporting and compliance','WWW.ProgLanguage.ca','QuartzR','96051'),
+('Simon Jacobs','34 Cold St, Oakville,ON','647-203-1992',	'This company works globally to provide business intelligence solutions to companies','WWW.SysTechCo.ca','JacobsS','20912'),
+('Andy Rolins','35 Corridor St, Brampton,ON','647-902-1010','A leader in software development and implementation of enterprise-level solutions','WWW.ComDev.ca','RolinsA','45701'),
+('Joel Condor',	'36 Converse St, Mississauga,ON','647-354-7098','Develop security products that are widely used internally and with many external customers','WWW.DataAdmin.ca','CondorJ','60745'),
+('Bruce Wayne',	'37 meter St, Oakville,ON',	'647-358-6321',	'The leading custom development firm in Hamilton and we are looking to add another .NET software developer to our existing team of data & software engineers', 'WWW.Cascade.ca','WayneB','40529'),
+('Ellen Adams',	'38 moon St, Brampton,ON','647-531-9912','We have a proven track record of building products that consumers love and continue to use years after their first install','WWW.CodeCreate.ca','AdamsE','10987'),
+('Candice Owens','39 Pallot St, Brampton,ON','647-301-6776','A team of interactive strategists, designers, and developers based in Toronto, Canada. Our passion is designing and building one-of-a-kind online experiences for our clients','WWW.JRProgrammer.ca','OwensC',	'25521'),
+('Jacob Lee','40 CloverSt, Oakville,ON','647-566-4232',	'Work with our seasoned development team in defining, prototyping, developing, supporting and deploying cross platform web applications for our customers worldwide','WWW.Drivers.ca','LeeJac',	'32131'),
+('Dylan Rhodes','41 Creation St, Toronto,ON','647-601-6534','We are on a mission to diminish unconscious bias and bring efficiency to the Talent Acquisition process',	'WWW.Graphics.ca','RhodesD','78901'),
+('Benjamin Jones','42 Server St, Brampton,ON','647-853-2109','A cloud company powered by our people. As an innovative fast-growing global, human capital management (HCM) technology company','WWW.DataModel.ca','JonesB','54540'),
+('Leon Kennedy','43 Tanner St, Brampton,ON','647-103-4054',	'A world-leading provider of sophisticated Cloud Computing business applications','WWW.TroubleShoot.ca','KennedyL',	'60649'),
+('Timothy Lake','44 Editor St, Mississauga,ON',	'647-407-2365',	'We work at the cutting edge of technology to develop and commercialize quantum computing solutions','WWW.ComplexCode.ca','LakeT','80812'),
+('Adam West','45 CasterSt, Toronto,ON',	'647-805-1023','A fast-growing Fintech early-stage company located in the heart of downtown Toronto','WWW.TestProg.ca','WestAd','54090'),
+('Andre Hover','46 Java St, Brampton,ON','647-401-6889','A fast-growing and highly innovative organization focused on delivering solutions that improve plant performance for manufacturers worldwide','WWW.InstallTech.ca','HoverAn','12129');
+
+
+
+
+
+
+
+
